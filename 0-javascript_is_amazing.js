@@ -1,2 +1,2 @@
 const myVAr="JavaScript is amazing";
-console.log(...)
+console.log(myVar);
