@@ -1,4 +1,1 @@
-const  ccool=("c is cool");
-const c="undefined";
-const undefined="undefined";
-console.log(...)
+console.log(process.argv[2] + ' is ' + process.argv[3]);
